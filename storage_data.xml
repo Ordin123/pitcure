@@ -1,6 +1,7 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="private" />
       <item value="return" />
       <item value="set Count" />
       <item value="public" />
