@@ -1,10 +1,13 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="User" />
+      <item value="Dao" />
+      <item value="void" />
+      <item value="public" />
       <item value="return" />
       <item value="private" />
       <item value="set Count" />
-      <item value="public" />
     </histories>
   </component>
 </application>
