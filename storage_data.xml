@@ -1,6 +1,8 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="get Available Book Item Id By Book Id" />
+      <item value="Id" />
       <item value="User" />
       <item value="Dao" />
       <item value="void" />
